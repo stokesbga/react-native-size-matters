@@ -1,5 +1,5 @@
 {
-  "name": "react-native-size-matters",
+  "name": "@outfix/react-native-app-scaler",
   "version": "0.1.6",
   "description": "A React-Native utility belt for scaling the size your apps UI across different sized devices",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nirsky/react-native-size-matters.git"
+    "url": "git+https://github.com/stokesbga/react-native-size-matters.git"
   },
   "keywords": [
     "javascript",
